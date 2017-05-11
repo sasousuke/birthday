@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Birthday</string>
+    <string name="action_settings">Settings</string>
+    <string name="cmd_exit">Exit</string>
+    <string name="about_of">About</string>
+    <string name="cmd_update">Refresh</string>
+    <string name="text_no_contact">This not have a contact with birthday field</string>
+    <string name="text_selected_item">You have selected</string>
+    <string name="title_activity_about">About</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text_about_activity">Develoment by Sasousuke</string>
+    <string name="btn_back">Back</string>
+    <string name="text_today">Today</string>
+    <string name="text_tomorrow">Tomorrow</string>
+    <string name="text_days">Days</string>
+    <string name="text_no_year">Less a year</string>
+    <string name="text_year">Year</string>
+    <string name="text_years">Years</string>
+    <string name="text_next">Next</string>
+    <string name="set_contact_birthday">Set Birthday</string>
+    <string name="title_activity_contact">ContactActivity</string>
+
+</resources>

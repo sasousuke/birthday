@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cumpleaños</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="cmd_exit">Salir</string>
+    <string name="about_of">Acerca de</string>
+    <string name="cmd_update">Actualizar</string>
+    <string name="text_no_contact">No hay contactos con datos de cumpleaños</string>
+    <string name="text_selected_item">Has seleccionado</string>
+    <string name="title_activity_about">Acerca</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="text_about_activity">Desarrollada por Sasousuke</string>
+    <string name="btn_back">Atrás</string>
+    <string name="text_today">Hoy</string>
+    <string name="text_tomorrow">Mañana</string>
+    <string name="text_days">Días</string>
+    <string name="text_no_year">Menos del año</string>
+    <string name="text_year">Año</string>
+    <string name="text_years">Años</string>
+    <string name="text_next">Próximo</string>
+    <string name="set_contact_birthday">Establecer Cumpleaños</string>
+</resources>
